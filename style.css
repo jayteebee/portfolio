@@ -1,13 +1,13 @@
 
 
 html {
-    background-color: #0b0701;
+    background-color: #334155;
     font-family: 'Poiret One', cursive;
 }
 
 body {
     height: 100vh;
-    color: #947a27;
+    color: #fbbf24;
 
     display: grid;
     grid-template-rows: 50px 1fr 370px 1fr 30px;
@@ -114,4 +114,12 @@ footer {
     padding-left: 30px;
     padding-bottom: 10px;
     margin-left: 30px;
+}
+
+a {
+    color: #fbbf24
+}
+
+a:hover {
+    color: white;
 }
